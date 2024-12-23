@@ -1,1 +1,1 @@
-**Push to Mario's Repo**
+This repository contains solutions to programming homework & exam practice problems. 
